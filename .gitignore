@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Data files (important for ML)
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
