@@ -1,0 +1,22 @@
+Section,Task,Contributor
+1a,"Dataset loading, schema summary, data types, sample records",Deepak Harihara Sudan N.
+1b,Physically impossible value detection (sanity diagnostics),Nitish Hegde
+1c,3 data quality hypotheses with ML implications,Gate Suraj Ulhas Chanda.
+2a,"Univariate distributions, skewness/kurtosis, class imbalance visualisation",Sreeja C
+2a,"Boxplots, categorical analysis, pairplot (interaction plots)",Swati Pandey
+2b,"Pearson & Spearman correlation heatmaps, Mutual Information (mandatory)",Nitish Hegde
+2c,Analytical answer: linear correlation sufficiency,Deepak Harihara Sudan N.
+2d,Two feature interactions benefiting non-linear models,Swati Pandey
+3a,Outlier handling: IQR Capping vs Isolation Forest vs Winsorization (3 techniques),Sreeja C
+3b,Encoding comparison: One-Hot Encoding vs Target Encoding,Gate Suraj Ulhas Chanda.
+3c,Scaler comparison: StandardScaler vs RobustScaler vs MinMaxScaler,Nitish Hegde
+3d,"Feature engineering: thermal discomfort idx, vis pressure interaction",Swati Pandey
+3e,Feature selection: Mutual Info (filter) + RF importance (embedded),Deepak Harihara Sudan N.
+4a,"Train-test splits: 80:20 (mandatory) + 70:30 (custom, justified)",Deepak Harihara Sudan N.
+4b,"Mandatory classifiers: KNN, SVM, Decision Tree, Naive Bayes",Sreeja C
+4c,"Mandatory ensemble models: Random Forest, Gradient Boosting",Nitish Hegde
+4d,Hyperparameter tuning: GridSearchCV with justified parameter ranges (all 7 models),Sreeja C
+4e,5-Fold Stratified CV + variance interpretation,Nitish Hegde
+5a,"Accuracy, Precision, Recall, F1, Confusion Matrix, ROC-AUC, Macro vs Weighted",Gate Suraj Ulhas Chanda.
+5b,Comparative table + multi-criteria ranking,Deepak Harihara Sudan N.
+5c,"Analytical questions: robustness, feature engineering, complexity tradeoff",Sreeja C
