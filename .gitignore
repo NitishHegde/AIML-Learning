@@ -13,3 +13,6 @@ data/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+*.csv
+*.xlsx
